@@ -32,6 +32,6 @@
 🔗 [AirGuard](https://github.com/AndreeaUrsachi/Proiecte/tree/AirGuard)
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/andreea-ursachi-58748320b/))
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/AndreeaUrsachi))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreea-ursachi-58748320b/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/AndreeaUrsachi)
 [![Yahoo](https://img.shields.io/badge/Yahoo-purple?logo=yahoo&logoColor=white)](mailto:andreea_u28@yahoo.com)
