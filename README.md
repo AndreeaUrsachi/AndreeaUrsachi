@@ -29,7 +29,7 @@
 
 ## Recent Projects
 
-🔗 [AirGuard](https://github.com/AndreeaUrsachi/Proiecte/tree/AirGuard)
+🔗 [AirGuard](https://github.com/AndreeaUrsachi/AirGuard)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreea-ursachi-58748320b/)
